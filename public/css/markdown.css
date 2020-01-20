@@ -168,11 +168,7 @@
 }
 
 .night .markdown-body .abc path.note_selected{
-    fill: ##4DD0E1;
-}
-
-.night tspan{
-    fill: #fefefe;
+    fill: #4DD0E1;
 }
 
 .night pre rect{
