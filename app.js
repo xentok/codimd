@@ -1,4 +1,5 @@
 'use strict'
+require('newrelic')
 // app
 // external modules
 var express = require('express')
